@@ -10,20 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0a76dd0-dd0c-45fb-8634-8092b4f1120a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/Authentication-Explore.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/Authentication-Explore.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/Controller/AlunoController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/Controller/TokenController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/Interfaces/IAlunoRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/Interfaces/IAlunoService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/Services/AlunoService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Authentication-Explore/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Authentication-Explore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Authentication-Explore/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2qBL2V9GeWNPpsPv1myqvtZcbPP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,20 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.Authentication-Explore: http.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.Authentication-Explore: http.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Authentication-Explore: http">
     <configuration name="Authentication-Explore: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Authentication-Explore/Authentication-Explore.csproj" />
@@ -116,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734130815387</updated>
-      <workItem from="1734130816629" duration="633000" />
+      <workItem from="1734130816629" duration="1219000" />
     </task>
     <servers />
   </component>
